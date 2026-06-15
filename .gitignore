@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+analysis_history.txt
+analysis_report.csv
+
+graphs/
