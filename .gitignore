@@ -6,3 +6,5 @@ analysis_history.txt
 analysis_report.csv
 
 graphs/
+__pycache__/
+*.pyc
